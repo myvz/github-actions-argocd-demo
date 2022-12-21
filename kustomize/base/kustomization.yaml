@@ -1,0 +1,5 @@
+namespace: kustomize-spring-microservices
+resources:
+  - service.yaml
+  - deployment.yaml
+  - ingress.yaml
